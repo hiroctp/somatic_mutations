@@ -18,5 +18,5 @@ Somatic mutations were identified in a reference-based manner using the pathogen
 	- A cell with at least one site containing an ALT allele is annotated as ALT for the gene 
 	- A cell without any ALT sites but with at least one site containing a REF allele is annotated as REF 
 	- A cell with no ALT or REF sites but at least one site containing an OTH (other) allele is annotated as OTH (applicable only to  SNVs). OTH can be further assigned as REF or MIS for downstream analysis
-	- A cell with no recorded sites is annotated as MIS (missing) 
+	- A cell with no recorded sites is annotated as MIS (missing)  
 	ALT alleles are defined as pathogenic variants referred from the result of panel sequencing 
